@@ -84,6 +84,7 @@ namespace realsense2_camera
     const uint16_t RS_L515_PID_PRE_PRQ = 0x0B3D; // 
     const uint16_t RS_L515_PID      = 0x0B64; // 
     const uint16_t RS_L535_PID      = 0x0b68;
+    const uint16_t RS438_PID        = 0x0B4F; // D438
     
 
     const bool ALLOW_NO_TEXTURE_POINTS = false;
